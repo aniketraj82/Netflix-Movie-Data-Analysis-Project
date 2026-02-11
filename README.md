@@ -1,4 +1,5 @@
 🎬 Netflix Movie Data Analysis
+
 📌 Project Overview
 This project performs a comprehensive Exploratory Data Analysis (EDA) on a dataset containing over 9,000 Netflix movies. The goal is to uncover patterns in content production, viewer popularity, and genre distribution using Python's data science ecosystem.
 
